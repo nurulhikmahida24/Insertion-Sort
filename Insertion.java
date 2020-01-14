@@ -19,7 +19,7 @@ public class Insertion{
 		Insertion.insertionSort(array);
 		for (int i=0; i< array.length; i++)
 		{
-			System.out.println("Elemen di Index" +i+ "Sekarang adalah" +array[i]);
+			System.out.println("Elemen di Index" + i + " Sekarang adalah " + array[i]);
 		}
 	}
 }
